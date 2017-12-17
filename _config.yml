@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://marxy.net" # the base hostname & protocol for your site
 twitter_username: mecwerks
 github_username:  mecwerks
-theme: modernist
+remote_theme: jekyll-theme-modernist
 google_analytics: UA-111346607-1
 
 # Build settings
